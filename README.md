@@ -5,6 +5,6 @@ Ma langue maternelle est le portugais, mais ma deuxième langue est le français
 
 - 💻  Data Analyst et Developpeur BI
 - 🌱  J'apprends actuellement des outils pour travailler avec Data Engineer et Analytics Engineer
-- 🏢  Je travaille actuellement chez [iClinic](https://www.linkedin.com/company/iclinic-software-medico)
+<!--- 🏢  Je travaille actuellement chez [iClinic](https://www.linkedin.com/company/iclinic-software-medico)-->
 - 📫  Comment me joindre: [LinkedIn](https://br.linkedin.com/in/felipemoises)
 - 👩‍💻  Plus à propos de moi: [Medium](felipemoises.medium.com)
