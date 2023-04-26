@@ -5,6 +5,5 @@ Ma langue maternelle est le portugais, mais ma deuxième langue est le français
 
 - 💻  Developpeur BI et Analytics Engineer
 - 🌱  J'apprends actuellement des outils pour travailler avec Data Engineer et Analytics Engineer
-- 🏢  Je travaille actuellement chez [BIP](https://www.linkedin.com/company/business-integration-partners/)
 - 📫  Comment me joindre: [LinkedIn](https://br.linkedin.com/in/felipemoises)
 - 👩‍💻  Plus à propos de moi: [Medium](felipemoises.medium.com)
